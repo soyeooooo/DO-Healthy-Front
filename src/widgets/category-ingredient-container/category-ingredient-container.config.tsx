@@ -1,4 +1,3 @@
-//이후 각 카드 경로 설정 예정
 import { IngredientCategory } from '@/entities/ingredient/ingredient.type';
 
 export const INGREDIENT_CATEGORIES = [
